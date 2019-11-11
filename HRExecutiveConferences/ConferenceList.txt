@@ -2,12 +2,12 @@ NOTE: Please open the excel file ConferenceList.xlsx for detailed information
 
 1 2020 AHRD International Conference in the Americas
 2 2020 People Analytics & Workforce Planning Conference
-3	ASHHRA20 Annual Conference and Exposition
-4	ATD International Conference & Exposition
-5	California HR 20 
-6	Connect HR leadership Summit
-7	Culture Summit
-8	Greenhouse Open
+3 ASHHRA20 Annual Conference and Exposition
+4 ATD International Conference & Exposition
+5 California HR 20 
+6 Connect HR leadership Summit
+7 Culture Summit
+8 Greenhouse Open
 9 Hiring Success Conference
 10 HR Redefined
 11 HR Technology Conference & Exposition
