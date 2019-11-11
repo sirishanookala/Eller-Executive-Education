@@ -1,9 +1,21 @@
-1) HR Technology Conference & Exposition: https://www.hrtechnologyconference.com/  
-2) Hiring Success Conference:  https://www.smartrecruiters.com/hiring-success/americas/?utm_source=adwords&utm_campaign=search&gclid=Cj0KCQjwr-_tBRCMARIsAN413WTh4cZVVEwn8ZAKCzdeL0OlNxiozCXNyiStYCeJkCygUkOpBatuYaUaAhpwEALw_wcB  
-3) ATD International Conference & Exposition:  https://atdconference.td.org/  
-4) Greenhouse Open:  https://greenhouseopen.com/  
-5) Human Capital Analytics & Workforce Planning Event:  http://the-tma.org/human-capital-analytics/  
-6) SHRM19 Annual Conference & Exposition:  https://annual.shrm.org/  
-7) Culture Summit: https://www.culturesummit.co/
-8) Unleash America:  https://unleashgroup.io/america/agenda    
-9) 2020 AHRD International Conference in the Americas: https://www.ahrd.org/page/Annual-Conference
+NOTE: Please open the excel file ConferenceList.xlsx for detailed information
+
+1	2020 AHRD International Conference in the Americas
+2	2020 People Analytics & Workforce Planning Conference
+3	ASHHRA20 Annual Conference and Exposition
+4	ATD International Conference & Exposition
+5	California HR 20 
+6	Connect HR leadership Summit
+7	Culture Summit
+8	Greenhouse Open
+9 Hiring Success Conference
+10 HR Redefined
+11 HR Technology Conference & Exposition
+12 HR Transform
+13 Human Capital Analytics & Workforce Planning Event
+14 i4cp 2020 conference
+15 SHRM19 Annual Conference & Exposition
+16 Unleash America
+17 WorkHuman live 
+18 Workvision 2020
+
