@@ -1,7 +1,7 @@
 NOTE: Please open the excel file ConferenceList.xlsx for detailed information
 
-1	2020 AHRD International Conference in the Americas
-2	2020 People Analytics & Workforce Planning Conference
+1 2020 AHRD International Conference in the Americas
+2 2020 People Analytics & Workforce Planning Conference
 3	ASHHRA20 Annual Conference and Exposition
 4	ATD International Conference & Exposition
 5	California HR 20 
